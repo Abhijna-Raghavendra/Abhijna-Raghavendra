@@ -7,3 +7,4 @@
        
 <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijna-Raghavendra&layout=compact&theme=great-gatsby&hide_border=true" />
 <img height=170 src="https://github-readme-stats.vercel.app/api?username=Abhijna-Raghavendra&show_icons=true&include_all_commits=true&theme=great-gatsby&hide_border=true" alt="My github stats" />
+<img height=170 src="https://github-readme-streak-stats.herokuapp.com?user=Abhijna-Raghavendra&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
